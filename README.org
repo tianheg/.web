@@ -1,0 +1,11 @@
+* .web
+
+** Vue
+
+#+BEGIN_SRC sh
+pnpm create create-vue
+#+END_SRC
+
+** React
+
+[[https://tianheg.xyz/posts/react-starter/]]
