@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/demo/javascript/agents-example/*",
+      "source": "/demo/javascript/agents-example/(.*)",
       "headers": [
         {
           "key": "Cross-Origin-Opener-Policy",
