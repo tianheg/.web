@@ -4,6 +4,7 @@
 
 #+BEGIN_SRC sh
 pnpm create vue@latest
+# pnpx create-vue
 #+END_SRC
 
 ** React
