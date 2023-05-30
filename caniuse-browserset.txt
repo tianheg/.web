@@ -15,5 +15,5 @@ not and_uc > 0
 not op_mob > 0
 not op_mini > 0
 not samsung > 0
-last 3 ios_saf versions
-last 3 safari versions
+last 1 ios_saf versions
+last 1 safari versions
