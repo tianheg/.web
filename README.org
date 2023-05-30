@@ -3,8 +3,7 @@
 ** Vue
 
 #+BEGIN_SRC sh
-pnpm create vue@latest
-# pnpx create-vue
+pnpm dlx create-vue
 #+END_SRC
 
 ** React
